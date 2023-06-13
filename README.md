@@ -14,3 +14,8 @@
 Try it! : [Huggingface space](https://huggingface.co/spaces/pichaaa1808/ViT-DFU-Thermogram-Classification)
 or local ```python -m streamlit run app.py```
 
+## Reference
+• [Dataset](https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications) 
+
+
+
