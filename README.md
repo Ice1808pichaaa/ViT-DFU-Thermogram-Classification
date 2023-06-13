@@ -12,3 +12,5 @@
 
 ## Deployment
 Try it! : [Huggingface space](https://huggingface.co/spaces/pichaaa1808/ViT-DFU-Thermogram-Classification)
+or local ```python -m streamlit run app.py```
+
