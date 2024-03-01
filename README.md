@@ -6,7 +6,7 @@
 ## How to use
 ``` pip install -r requirements.txt ```
 
-## Blog
+## Blog (Thai)
 
 [Medium](https://medium.com/@icepicha/diabetic-foot-ulcers-classification-by-using-planter-foot-thermogram-3de9db31ad54)
 
