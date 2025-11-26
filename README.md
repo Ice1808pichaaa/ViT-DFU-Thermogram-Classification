@@ -29,7 +29,7 @@ Average Accuracy and F1 Score across training epochs.
 
 We use Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize the regions of the thermogram that the models focus on when making a prediction.
 
-| Original Image | ViT Attention Map | DeiT Attention Map |
+| ViT Attention Map | DeiT Attention Map |
 | :---: | :---: |
  ![ViT GradCAM](ViT/Gradcam_Result/DFU/b0e60662-fbbc-470d-a8b8-cd2a6e6bbb09.png) | ![DeiT GradCAM](DeiT/Gradcam_Result/DFU/c9e6dad9-2459-4793-8ea4-da2970da4e08.png) |
 
