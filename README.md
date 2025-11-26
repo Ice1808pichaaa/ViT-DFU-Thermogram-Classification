@@ -1,9 +1,6 @@
 # ViT-DFU-Thermogram-Classification
 # This is an image classification project that classify thermogram image of Diabtic Foot Ulcers(DFU) by using Vision Transformer(ViT) model.
 
-## How to use
-``` pip install -r requirements.txt ```
-
 ## Blog (Thai)
 
 [Medium](https://medium.com/@icepicha/diabetic-foot-ulcers-classification-by-using-planter-foot-thermogram-3de9db31ad54)
