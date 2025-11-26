@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pillow
+opencv-python
+numpy
+pytorch-grad-cam
