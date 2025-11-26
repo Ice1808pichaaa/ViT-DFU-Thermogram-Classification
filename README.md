@@ -28,7 +28,7 @@ Comparison of classification performance between ViT and DeiT.
 | ![ViT Confusion Matrix](ViT/Performance_Metrics/CM.png) | ![DeiT Confusion Matrix](DeiT/Performance_Metrics/CM.png) |
 
 ### Training History
-Average Accuracy and F1 Score across training epochs.
+Average Accuracy and F1 Score across folds.
 
 | Vision Transformer (ViT) | Data-efficient Image Transformer (DeiT) |
 | :---: | :---: |
