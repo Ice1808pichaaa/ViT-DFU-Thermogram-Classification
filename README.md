@@ -2,7 +2,7 @@
 
 This project utilizes **Vision Transformer (ViT)** and **Data-efficient Image Transformer (DeiT)** models to classify plantar thermogram images for the early detection of Diabetic Foot Ulcers (DFU). 
 
-To validate model performance, we employed **Stratified 5-Fold Cross-Validation**, ensuring robust evaluation across balanced data splits. Furthermore, **Grad-CAM** visualizations are integrated to provide explainable AI insights into the model's diagnostic regions.
+To validate model performance, I employed **Stratified 5-Fold Cross-Validation**, ensuring robust evaluation across balanced data splits. Furthermore, **Grad-CAM** visualizations are integrated to provide explainable AI insights into the model's diagnostic regions.
 
 [Huggingface space](https://huggingface.co/spaces/pichaaa1808/Explainable-DFU-ViT) | [Dataset](https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications) 
 
