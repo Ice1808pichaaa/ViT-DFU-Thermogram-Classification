@@ -1,7 +1,7 @@
-gradio
-transformers
+streamlit
 torch
+transformers
 pillow
-opencv-python
 numpy
-pytorch-grad-cam
+opencv-python-headless
+grad-cam
