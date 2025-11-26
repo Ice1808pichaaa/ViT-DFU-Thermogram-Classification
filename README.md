@@ -1,7 +1,7 @@
 # Explainable Early Detection of Diabetic Foot Ulcers Using Thermal Imaging with Vision Transformers and Grad-CAM
 
-[Huggingface space](https://huggingface.co/spaces/pichaaa1808/Explainable-DFU-ViT)
-[Medium](https://medium.com/@icepicha/diabetic-foot-ulcers-classification-by-using-planter-foot-thermogram-3de9db31ad54) 
+[Huggingface space](https://huggingface.co/spaces/pichaaa1808/Explainable-DFU-ViT) |
+[Medium (Thai)] (https://medium.com/@icepicha/diabetic-foot-ulcers-classification-by-using-planter-foot-thermogram-3de9db31ad54) |
 [Dataset](https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications) 
 
 ## Model Performance
